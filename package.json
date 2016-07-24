@@ -1,0 +1,25 @@
+{
+  "name": "tg-wrapper",
+  "version": "0.1.1",
+  "description": "Telegram CLI wrapper for NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhsaanF/tg-wrapper.git"
+  },
+  "keywords": [
+    "tg",
+    "telegram",
+    "telegram-cli"
+  ],
+  "author": "Ehsaan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/EhsaanF/tg-wrapper/issues"
+  },
+  "homepage": "https://github.com/EhsaanF/tg-wrapper#readme",
+  "engines": { "node": ">= 4.*.*" },
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
